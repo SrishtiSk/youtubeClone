@@ -1,4 +1,5 @@
 # YoutubeClone
+This is a landing page clone of youtube. it is a static webpage.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
 
