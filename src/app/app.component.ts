@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'youtubeClone';
+  status:boolean=false;
+  showSidebar(){
+    this.status=!this.status;
+    console.log("sidebar", this.status);
+  }
 }
